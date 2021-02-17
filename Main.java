@@ -2,7 +2,7 @@ class Main {
   public static void main(String[] args) {
     minusOne(3);
     System.out.println("We are going to be racing cars today!! On My Mark!");
-    System.out.println("We are going to be racing cars ");
+    System.out.println("We are going ");
   }
 
   public static void minusOne(int n) {
